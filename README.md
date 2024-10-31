@@ -7,6 +7,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Ejecución del Proyecto
+
+Para ejecutar el proyecto en un entorno local, ejecute el siguiente comando:
+
+`npm run dev` o `yarn dev`
+
+Esto iniciará el servicio en el puerto 5173.
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
